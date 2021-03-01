@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there I am Bilel bouzid 👋
 
-<!--
-**bilelBZ/bilelBZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End web developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently looking for new opportunities as a Front-End developer
+- 🌱 I’m currently learning React.js|API|Server Side developement
+- 🤔 I’m looking for help with RH to find a job.
+- 💬 Ask me about my projects
+- 📫 How to reach me: 
+##### bilelbz155@gmail.com
+##### www.linkedin.com/in/bilel-bouzid
+- ⚡ Fun fact: singing.I am a singer😅😁
+
