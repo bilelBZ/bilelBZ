@@ -1,10 +1,10 @@
 ## Hi there I am Bilel bouzid 👋
 
-### Front-End web developer
+### Full Stack Javascript Web Developer
 
 
-- 🔭 I’m currently looking for new opportunities as a Front-End developer
-- 🌱 I’m currently learning React.js|API|Server Side developement
+- 🔭 I’m currently looking for new opportunities as a Full stack Js | Front-End developer
+- 🌱 I’m currently learning React.js|RestAPI|mongoDB|mongoose|node.js
 - 🤔 I’m looking for help with RH to find a job.
 - 💬 Ask me about my projects
 - 📫 How to reach me: 
